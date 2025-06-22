@@ -3,7 +3,8 @@ outputs/*
 **/*.db
 **/*.pt
 
-AlphaPose
+AlphaPose/
+AlphaPose/*
 
 # Python-generated files
 __pycache__/
@@ -166,3 +167,4 @@ dmypy.json
 .DS_Store
 .DS_Store/
 
+AlphaPose
